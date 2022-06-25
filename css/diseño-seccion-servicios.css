@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+#seccion-servicios{
+    margin-top: 25px;
+}
+
+#seccion-servicios-titulo-cabecera{
+    justify-content: center;
+    background: #094746;
+}
+ 
+#seccion-servicios-titulo-texto{
+    font-family: Arial Black; 
+    font-weight: bold;
+    font-size: 2.5em;
+    color:white;
+}
+
+#seccion-servicios-diseño3D-titulo{
+    text-align: center;
+    margin:30px 0;
+    padding: 0;
+}
+
+#seccion-servicios-diseño3D-titulo-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:#F44336;
+    font-size: 2.5em;
+}
+
+#seccion-servicios-diseño3D-informacion-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:black;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+#seccion-servicios-impresion3D-titulo{
+    text-align: center;
+    margin:30px 0;
+    padding: 0;
+}
+
+#seccion-servicios-impresion3D-titulo-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:#F44336;
+    font-size: 2.5em;
+}
+
+#seccion-servicios-impresion3D-informacion-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:black;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+#seccion-servicios-ReparacionDispositivos-titulo{
+    text-align: center;
+    margin:30px 0;
+    padding: 0;
+}
+
+#seccion-servicios-ReparacionDispositivos-titulo-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:#F44336;
+    font-size: 2.5em;
+}
+
+#seccion-servicios-ReparacionDispositivos-informacion-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:black;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+#seccion-servicios-DesarrolloSoftware-titulo{
+    text-align: center;
+    margin:30px 0;
+    padding: 0;
+}
+
+#seccion-servicios-DesarrolloSoftware-titulo-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:#F44336;
+    font-size: 2.5em;
+}
+
+#seccion-servicios-DesarrolloSoftware-informacion-texto{
+    font-family: Arial Black; 
+    font-weight: bold; 
+    color:black;
+    font-size: 1.5em;
+    text-align: justify;
+}
